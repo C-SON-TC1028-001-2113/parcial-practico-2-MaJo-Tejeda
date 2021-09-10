@@ -6,7 +6,7 @@ def main():
  ste = math.sqrt(num)
  
  i=1 
- while i < ste:
+ while i <= ste:
      i = i+1 
  print (i)
 
